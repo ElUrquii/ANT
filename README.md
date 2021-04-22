@@ -1,5 +1,5 @@
 # ANT
-Repositorio dedicado a al asignatura "Aplicación de Nuevas Tecnologías"
+Repositorio dedicado a la asignatura "Aplicación de Nuevas Tecnologías"
 
 ---
 
